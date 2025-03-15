@@ -2,10 +2,10 @@
 Sistema simples para gerenciamento de Biblioteca
 
 ## Integrantes do Grupo
-- Diego
-- Caique
-- Vinicius
-- Alexandre
+- DIEGO DE SOUSA OLIVEIRA
+- CAIQUE NASCIMENTO DOS SANTOS
+- VINÍCIUS GABRIEL DE SOUSA SOARES
+- ALEXANDRE DE ALENCAR VASCONCELOS
 
 ## Instalação e Execução
 
