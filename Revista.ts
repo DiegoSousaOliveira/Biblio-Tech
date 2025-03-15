@@ -4,7 +4,13 @@ export class Revista extends Item {
     editor: number;
     periodicidade : string;
 
-    constructor(id: number, titulo: string, ano: number, editor: number, periodicidade: string) {
+    constructor(
+        id: number, 
+        titulo: string, 
+        ano: number, 
+        editor: number, 
+        periodicidade: string
+    ) {
         super(id, titulo, ano);
         this.editor = editor;
         this.periodicidade = periodicidade;
